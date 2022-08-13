@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Animation fix for cleaning herbs
+adds an animation for cleaning grimy herbs
