@@ -19,7 +19,7 @@ import java.util.Arrays;
 public class GrimyAnimation extends Plugin
 {
 	//code inspired by "vial smasher" plugin
-	private static final int GRIMY_ANIMATION = 885;
+	private static final int GRIMY_ANIMATION = 889;
 	private static final String [] GRIMY_MESSAGE =
 			{       "You clean the Grimy avantoe.",
 					"You clean the Grimy guam leaf.",
